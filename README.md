@@ -2,7 +2,7 @@
 - A simple python file that will load .py Files (as plugins) for ISZ-ModMenu.
 
 # Download(s):
-- Download [iszlib2 Here]().
+- Download [iszlib2 Here](https://github.com/Cracko298/iszlib/releases/download/v1.0.0/iszlib2.exe).
 
 
 
