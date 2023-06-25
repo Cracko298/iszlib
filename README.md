@@ -4,7 +4,14 @@
 # Download(s):
 - Download [iszlib2 Here](https://github.com/Cracko298/iszlib/releases/download/v1.0.0/iszlib2.exe).
 
+# FaQ(s):
+- ***Why was Python the chosen language for making Plugins?***
 
+*Python was chosen for it's easy readablilty + simple syntax, and higher-level Utility, with a wide range of uses, you can copy, modify, and edit anything for ISZ (or) VS.*
+
+- ***Why are plugins required to be in "_dat > MMplugins"?***
+
+*It's the defualt path for installing plugins in the ISZ-ModMenu. It makes it easier to port the iszlib2 into ISZ-ModMenu.*
 
 
 # Example Plugin:
