@@ -25,11 +25,7 @@
 
 # Plugin(s):
 
+[![Card 1](https://github-readme-stats.vercel.app/api/pin/?username=YT-Toaster&repo=Better-Plugin-Folder&show_icons=true&theme=dark)](https://github.com/YT-Toaster/Better-Plugin-Folder)
+[![Card 2](https://github-readme-stats.vercel.app/api/pin/?username=ISZ-Hacker-Organization&repo=ISPatch-Plugin&show_icons=true&theme=dark)](https://github.com/ISZ-Hacker-Organization/ISPatch-Plugin)
 
-
-
-
-
-
-
-
+[![Card 3](https://github-readme-stats.vercel.app/api/pin/?username=ISZ-Hacker-Organization&repo=WTSM-Plugin&show_icons=true&theme=dark)](https://github.com/ISZ-Hacker-Organization/WTSM-Plugin)
