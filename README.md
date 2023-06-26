@@ -20,4 +20,16 @@
 - Needs to be in Python Format. Requires **"Credits"** and **"MainApp"** functions.
 - The **MainApp** function can point to other functions which do **NOT** need to be named any specific name.
 
+# Plugin Template Image:
 ![image](https://github.com/Cracko298/iszlib/assets/78656905/c642b8f4-e1cd-461f-9530-55b104c4e8df)
+
+# Plugin(s):
+
+
+
+
+
+
+
+
+
