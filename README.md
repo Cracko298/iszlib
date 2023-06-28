@@ -1,5 +1,5 @@
 # iszlib
-- A simple python file that will load .py Files (as plugins) for ISZ-ModMenu.
+- Load multiple plugin formats including .py, .bat, and .vbs for iszlib2 (ISZ-ModMenu).
 
 # Download(s):
 - Download [iszlib2 Here](https://github.com/Cracko298/iszlib/releases/download/v1.0.0/iszlib2.exe).
