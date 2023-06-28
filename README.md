@@ -5,9 +5,9 @@
 - Download [iszlib2 Here](https://github.com/Cracko298/iszlib/releases/download/v2.0.0/iszlib2.exe).
 
 # FaQ(s):
-- ***Why was Python the chosen language for making Plugins?***
+- ***Why was Python, Batch, and Visual Basic Script the chosen languages for making Plugins?***
 
-*Python was chosen for it's easy readablilty + simple syntax, and higher-level Utility, with a wide range of uses, you can copy, modify, and edit anything for ISZ (or) VS.*
+*They where all chosen for there easy readablilty + simple syntax, and higherish-level Utility, with a wide range of uses, you can copy, modify, and edit anything for ISZ (or) VS.*
 
 - ***Why are plugins required to be in "_dat > MMplugins"?***
 
