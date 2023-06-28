@@ -1,5 +1,5 @@
 # iszlib
-- Loads multiple plugin formats including .py, .bat, .vbs Scripts for communicating with [ISZ-ModMenu]().
+- Loads multiple plugin formats including .py, .bat, .vbs Scripts for communicating with [ISZ-ModMenu](https://github.com/ISZ-Hacker-Organization/ISZ-ModMenu).
 
 # Download(s):
 - Download [iszlib2 Here](https://github.com/Cracko298/iszlib/releases/download/v2.0.0/iszlib2.exe).
