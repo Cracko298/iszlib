@@ -1,8 +1,8 @@
 # iszlib
-- Load multiple plugin formats including .py, .bat, and .vbs for iszlib2 (ISZ-ModMenu).
+- Loads multiple plugin formats including .py, .bat, .vbs Scripts for communicating with [ISZ-ModMenu]().
 
 # Download(s):
-- Download [iszlib2 Here](https://github.com/Cracko298/iszlib/releases/download/v1.0.0/iszlib2.exe).
+- Download [iszlib2 Here](https://github.com/Cracko298/iszlib/releases/download/v2.0.0/iszlib2.exe).
 
 # FaQ(s):
 - ***Why was Python the chosen language for making Plugins?***
